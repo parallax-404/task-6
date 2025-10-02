@@ -20,4 +20,3 @@ I worked on this task to learn about creating strong passwords and understanding
 ## Notes
 - I tested ten passwords and found some were way too weak.
 - Did this all with free online tools—no paid software.
-- Submission deadline is 10:00 PM IST today, October 02, 2025.
